@@ -17,6 +17,9 @@
     <img align='center' alt='office' src='https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white'/>
     <img align='center' alt='mark' src='https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white'/>
     <img align='center' alt='mysql' src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white'/>
+    <img align='center' alt='html' src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+    <img align='center' alt='css' src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+    <img align='center' alt='jvscr' src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div></br>
 
 “Com paixão pela tecnologia e educação, alimento o desejo de transformar o mundo em um lugar mais justo e sustentável.”
